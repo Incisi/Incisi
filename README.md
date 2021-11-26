@@ -11,9 +11,9 @@ Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmad
 
 ## Contact:
 
-</br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+</br><img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-8C9EFF?style=for-the-badge&logo=discord&logoColor=white" />
 <string>Incisi#4838</string>
-<img align="left" alt="Discord2" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
+
 
 ## Connect with me:
 
