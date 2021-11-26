@@ -22,7 +22,7 @@ Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmad
 
 <br />
 
-## Technologies and Tools:
+## Tools and Technologies:
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=for-the-badge&logo=AndroidStudio)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
