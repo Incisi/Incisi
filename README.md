@@ -1,6 +1,6 @@
 ### Hello there, I'm David Incisi
 
-Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">!
+Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
 
 ## I'm a Software Developer!
 
@@ -13,12 +13,12 @@ Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmad
 
 </br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 <string>Incisi#4838</string>
-<img align="left" alt="Discord2" width="25px" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
+<img align="left" alt="Discord2" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
 
 ## Connect with me:
 
-[<img align="left" alt="Twitter" width="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="LinkedIn" width="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
