@@ -6,7 +6,6 @@ Very nice to meet you <img src="https://raw.githubusercontent.com/aemmadi/aemmad
 
 - 👨‍🎓 Graduated in Systems Development;
 - 📚 I'm currently learning JavaScript;
-- 💻 I'm developing the Legendary Corporation;
 - ⚡ Fun fact: I love listening to music and talking about programming and technologies.
 
 ## Contact:
