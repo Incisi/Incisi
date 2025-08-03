@@ -8,8 +8,8 @@ Sou um Engenheiro de Software em formação com uma bagagem única que mescla te
 
 - 🔭 Atualmente estou trabalhando no meu portfólio pessoal full-stack, construído do zero com NestJS, React (Vite), TypeORM e PostgreSQL.
 - 🌱 Atualmente estou aprendendo conceitos avançados de arquitetura de sistemas, testes automatizados e pipelines de CI/CD.
-- [cite_start]🏢 Atuo como Auxiliar de Marketing na **Brico Bread**, onde desenvolvo ferramentas internas e analiso a performance digital, conectando a tecnologia diretamente aos objetivos de negócio[cite: 77].
-- [cite_start]🎓 Estou cursando Engenharia de Software na **Estácio de Sá** [cite: 10, 67] [cite_start]e sou formado Técnico em Desenvolvimento de Sistemas pela **ETEC**[cite: 8, 63].
+- 🏢 Atuo como Auxiliar de Marketing na **Brico Bread**, onde desenvolvo ferramentas internas e analiso a performance digital, conectando a tecnologia diretamente aos objetivos de negócio.
+- 🎓 Estou cursando Engenharia de Software na **Estácio de Sá** e sou formado Técnico em Desenvolvimento de Sistemas pela **ETEC**.
 - ⚡ Curiosidade: Adoro ouvir música enquanto programo e conversar sobre como novas tecnologias podem mudar o mundo.
 
 ---
