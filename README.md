@@ -8,8 +8,8 @@ I'm a Software Engineer in training with a unique background that blends technol
 
 - 🔭 I’m currently working on my personal full-stack portfolio, built from scratch with NestJS, React (Vite), TypeORM, and PostgreSQL.
 - 🌱 I’m currently learning advanced concepts in system architecture, automated testing, and CI/CD pipelines.
-- [cite_start]🏢 I work as a Marketing Assistant at **Brico Bread**, where I develop internal tools and analyze digital performance, connecting technology directly to business goals[cite: 77].
-- [cite_start]🎓 I'm studying Software Engineering at **Estácio de Sá** [cite: 10, 67] [cite_start]and graduated as a Systems Development Technician from **ETEC**[cite: 8, 63].
+- 🏢 I work as a Marketing Assistant at **Brico Bread**, where I develop internal tools and analyze digital performance, connecting technology directly to business goals.
+- 🎓 I'm studying Software Engineering at **Estácio de Sá** and graduated as a Systems Development Technician from **ETEC**.
 - ⚡ Fun fact: I love listening to music while coding and talking about how new technologies can change the world.
 
 ---
