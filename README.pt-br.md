@@ -24,7 +24,6 @@ Sou um Engenheiro de Software em formação com uma bagagem única que mescla te
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     </td>
     <td valign="top" width="50%">
